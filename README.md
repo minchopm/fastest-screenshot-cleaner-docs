@@ -2,7 +2,7 @@
 
 Review screenshot groups and duplicates before deleting selected items through Photos.
 
-[Official product website](https://fastest-screenshot-cleaner.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6760660697)
+[Official product website](https://fastest-screenshot-cleaner.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6760660697) · [Side-by-side comparisons](https://fastest-screenshot-cleaner.arte-soft.com/compare/) · [Guides & workflows](https://fastest-screenshot-cleaner.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://fastest-screenshot-cleaner.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
