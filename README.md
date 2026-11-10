@@ -2,7 +2,26 @@
 
 Review screenshot groups and duplicates before deleting selected items through Photos.
 
-[Official product website](https://fastest-screenshot-cleaner.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/fastest-screenshot-cleaner/id6760660697?pt=127093297&ct=github_screenshot_clean&mt=8) · [Side-by-side comparisons](https://fastest-screenshot-cleaner.arte-soft.com/compare/) · [Guides & workflows](https://fastest-screenshot-cleaner.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://fastest-screenshot-cleaner.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://fastest-screenshot-cleaner.arte-soft.com/) · [Arte Soft portal](https://fastest-screenshot-cleaner.arte-soft.com/articles/) · [App Store](https://apps.apple.com/us/app/fastest-screenshot-cleaner/id6760660697) · [Comparisons](https://fastest-screenshot-cleaner.arte-soft.com/compare/) · [Guides](https://fastest-screenshot-cleaner.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://fastest-screenshot-cleaner.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://fastest-screenshot-cleaner.arte-soft.com/](https://fastest-screenshot-cleaner.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://fastest-screenshot-cleaner.arte-soft.com/articles/](https://fastest-screenshot-cleaner.arte-soft.com/articles/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/fastest-screenshot-cleaner/id6760660697](https://apps.apple.com/us/app/fastest-screenshot-cleaner/id6760660697) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://fastest-screenshot-cleaner.arte-soft.com/compare/](https://fastest-screenshot-cleaner.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://fastest-screenshot-cleaner.arte-soft.com/articles/](https://fastest-screenshot-cleaner.arte-soft.com/articles/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://fastest-screenshot-cleaner.arte-soft.com/llms-full.txt](https://fastest-screenshot-cleaner.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/fastest-screenshot-cleaner-docs/](https://minchopm.github.io/fastest-screenshot-cleaner-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- 100% local on-device PhotoKit scanning with exact byte/MB/GB footprint accounting and zero cloud uploads.
+- Hybrid perceptual-pixel + OCR text similarity grouping so distinct text receipts are not conflated with true duplicates.
+- Safe batch deletion through iOS Recently Deleted plus a Home Screen storage widget for a $2.99 one-time purchase ($0 subscriptions).
 
 ## Who this is for
 
@@ -34,4 +53,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
