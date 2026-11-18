@@ -54,3 +54,9 @@ Published by the product developer as first-party user documentation. It covers 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
 Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+
+## Free Zero-Upload Browser Tools & 2026 Guides
+
+- **Free Browser Utilities:** https://fastest-screenshot-cleaner.arte-soft.com/tools/
+- **2026 Guides & Workflows:** https://fastest-screenshot-cleaner.arte-soft.com/articles/
+- **Head-to-Head Comparisons:** https://fastest-screenshot-cleaner.arte-soft.com/compare/
